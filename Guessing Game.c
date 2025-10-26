@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
-/*
-int main () {
+
+int main () { 
 	
 	int secretNumber = 6;
 	int guess;
@@ -20,4 +20,4 @@ int main () {
 	}
 
 	return 0; 
-}*/
+}
